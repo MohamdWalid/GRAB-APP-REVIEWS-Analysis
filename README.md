@@ -34,9 +34,11 @@
    1) We have shown several KPIs that measure the actual performance of the 
         application such as Reviews , Likes, Promoter reviews, Likes on promoter 
         reviews, Passive reviews, Likes on passive reviews , Detractor reviews, Likes 
-       on Detractor reviews
+       on Detractor reviews.
+      
     2) It seems that we have been losing users since 2019, as the number of 
         reviews and likes has decreased year after year.
+        
     3) It seems that we are not improving the application, but rather each version 
        is getting worse than the one before it since 2019, as the percentage of 
        Detractor reviews and likes on them increases year after year, and the 
